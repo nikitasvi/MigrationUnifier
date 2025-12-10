@@ -1,8 +1,7 @@
 {
   "profiles": {
     "MigrationUnifier": {
-      "commandName": "Project",
-      "commandLineArgs": "--source C:\\Repositories\\Segpay\\SegPay.Database\\Contexts.Clust.Monitoring.Migrations\\Migrations\\ --class NewMigration --namespace SegPay.Database.Contexts.Clust.Monitoring.Migrations --from 20251105160438 --until 20251119094222 --out C:\\Users\\NikitaMaltsev\\Desktop"
+      "commandName": "Project"
     }
   }
 }
